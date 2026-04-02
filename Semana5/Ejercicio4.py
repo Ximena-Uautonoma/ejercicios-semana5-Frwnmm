@@ -11,3 +11,5 @@ while i == 1:
     sum= sum + i
     i = int(input("Ya es otro dia, 1 si asististe, 0 si no asisitiste: "))
     print("Hoy asististe, has asistido",sum, "dias")
+if i == 0:
+    print("No asisitiste, perdiste la racha")
