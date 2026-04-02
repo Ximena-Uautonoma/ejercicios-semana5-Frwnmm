@@ -13,4 +13,4 @@ elif a <= 25:
 elif a > 25:
     print("Afuera esta soleado")
 else:
-    print(")
+    print("Ingresa un numero valido")
